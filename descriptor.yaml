@@ -1,0 +1,18 @@
+code: ten-assets-bundle
+description: ten-assets-bundle bundle
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  assets:
+    - assets/image00000/image00000-descriptor.yaml
+    - assets/image00001/image00001-descriptor.yaml
+    - assets/image00002/image00002-descriptor.yaml
+    - assets/image00003/image00003-descriptor.yaml
+    - assets/image00004/image00004-descriptor.yaml
+    - assets/image00005/image00005-descriptor.yaml
+    - assets/image00006/image00006-descriptor.yaml
+    - assets/image00007/image00007-descriptor.yaml
+    - assets/image00008/image00008-descriptor.yaml
+    - assets/image00009/image00009-descriptor.yaml
+  categories:
+    - categories/categories-descriptor.yaml
